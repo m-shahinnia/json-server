@@ -12,5 +12,9 @@
       "details": "Loren Ipsum",
       "complete": true
     }
-  ]
+  ],
+  "login" :
+  {
+    "token" : "ffffffffdddddddseeeeeee"
+  }
 }
